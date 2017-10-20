@@ -10,7 +10,7 @@ version used:
   </dependency>
 ```
 
-##Prerequisites
+## Prerequisites
 All command are executed in the HBase shell for convenience.
 
 - Create a table with the following definition:   
@@ -27,5 +27,5 @@ expected output:
   1 row(s) in 0.0140 seconds
   ```
   
-##Run
+## Run
 Replace the placeholders with the proper values and uncomment/comment the right method in main.
